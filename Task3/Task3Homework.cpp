@@ -1,4 +1,9 @@
+#include <iostream>
+#include <iostream>
+using namespace std;
 int factorialnum1;
+int base;
+int exponent;
 
 
 int factorial(int n
