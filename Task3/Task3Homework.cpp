@@ -1,5 +1,4 @@
 #include <iostream>
-#include <iostream>
 using namespace std;
 int factorialnum1;
 int base;
